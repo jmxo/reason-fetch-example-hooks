@@ -46,7 +46,8 @@ let make = () => {
       |> ignore
     );
 
-    Some(() => ());
+    // TODO: check this
+    None;
   });
 
   switch (state) {
