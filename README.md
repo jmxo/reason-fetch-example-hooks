@@ -1,4 +1,4 @@
-# reason-fetch-example-jsx3
+# reason-fetch-example-hooks
 
 ## Run Project
 
