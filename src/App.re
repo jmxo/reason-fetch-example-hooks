@@ -46,7 +46,6 @@ let make = () => {
       |> ignore
     );
 
-    // TODO: check this
     None;
   });
 
